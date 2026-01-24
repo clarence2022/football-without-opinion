@@ -1,0 +1,74 @@
+[
+  {
+    "id": "arsenal",
+    "name": "Arsenal FC",
+    "country": "England",
+    "league": "Premier League",
+    "founded": 1886,
+    "stadium": "Emirates Stadium",
+    "capacity": 60704
+  },
+  {
+    "id": "manchester-city",
+    "name": "Manchester City FC",
+    "country": "England",
+    "league": "Premier League",
+    "founded": 1880,
+    "stadium": "Etihad Stadium",
+    "capacity": 53400
+  },
+  {
+    "id": "liverpool",
+    "name": "Liverpool FC",
+    "country": "England",
+    "league": "Premier League",
+    "founded": 1892,
+    "stadium": "Anfield",
+    "capacity": 61276
+  },
+  {
+    "id": "chelsea",
+    "name": "Chelsea FC",
+    "country": "England",
+    "league": "Premier League",
+    "founded": 1905,
+    "stadium": "Stamford Bridge",
+    "capacity": 40343
+  },
+  {
+    "id": "real-madrid",
+    "name": "Real Madrid CF",
+    "country": "Spain",
+    "league": "La Liga",
+    "founded": 1902,
+    "stadium": "Santiago Bernabéu",
+    "capacity": 81044
+  },
+  {
+    "id": "barcelona",
+    "name": "FC Barcelona",
+    "country": "Spain",
+    "league": "La Liga",
+    "founded": 1899,
+    "stadium": "Spotify Camp Nou",
+    "capacity": 99354
+  },
+  {
+    "id": "bayern-munich",
+    "name": "FC Bayern München",
+    "country": "Germany",
+    "league": "Bundesliga",
+    "founded": 1900,
+    "stadium": "Allianz Arena",
+    "capacity": 75024
+  },
+  {
+    "id": "psg",
+    "name": "Paris Saint-Germain FC",
+    "country": "France",
+    "league": "Ligue 1",
+    "founded": 1970,
+    "stadium": "Parc des Princes",
+    "capacity": 47929
+  }
+]

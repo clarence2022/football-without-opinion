@@ -1,0 +1,134 @@
+[
+  {
+    "id": "saka",
+    "name": "Bukayo Saka",
+    "dateOfBirth": "2001-09-05",
+    "nationality": "England",
+    "position": "Right Winger",
+    "clubId": "arsenal",
+    "shirtNumber": 7,
+    "contractEnd": "2027-06-30",
+    "heightCm": 178
+  },
+  {
+    "id": "saliba",
+    "name": "William Saliba",
+    "dateOfBirth": "2001-03-24",
+    "nationality": "France",
+    "position": "Centre-Back",
+    "clubId": "arsenal",
+    "shirtNumber": 2,
+    "contractEnd": "2027-06-30",
+    "heightCm": 192
+  },
+  {
+    "id": "haaland",
+    "name": "Erling Haaland",
+    "dateOfBirth": "2000-07-21",
+    "nationality": "Norway",
+    "position": "Centre-Forward",
+    "clubId": "manchester-city",
+    "shirtNumber": 9,
+    "contractEnd": "2027-06-30",
+    "heightCm": 194
+  },
+  {
+    "id": "rodri",
+    "name": "Rodrigo Hernández",
+    "dateOfBirth": "1996-06-22",
+    "nationality": "Spain",
+    "position": "Defensive Midfielder",
+    "clubId": "manchester-city",
+    "shirtNumber": 16,
+    "contractEnd": "2027-06-30",
+    "heightCm": 191
+  },
+  {
+    "id": "salah",
+    "name": "Mohamed Salah",
+    "dateOfBirth": "1992-06-15",
+    "nationality": "Egypt",
+    "position": "Right Winger",
+    "clubId": "liverpool",
+    "shirtNumber": 11,
+    "contractEnd": "2025-06-30",
+    "heightCm": 175
+  },
+  {
+    "id": "van-dijk",
+    "name": "Virgil van Dijk",
+    "dateOfBirth": "1991-07-08",
+    "nationality": "Netherlands",
+    "position": "Centre-Back",
+    "clubId": "liverpool",
+    "shirtNumber": 4,
+    "contractEnd": "2025-06-30",
+    "heightCm": 193
+  },
+  {
+    "id": "palmer",
+    "name": "Cole Palmer",
+    "dateOfBirth": "2002-05-06",
+    "nationality": "England",
+    "position": "Attacking Midfielder",
+    "clubId": "chelsea",
+    "shirtNumber": 20,
+    "contractEnd": "2033-06-30",
+    "heightCm": 185
+  },
+  {
+    "id": "vinicius",
+    "name": "Vinícius Júnior",
+    "dateOfBirth": "2000-07-12",
+    "nationality": "Brazil",
+    "position": "Left Winger",
+    "clubId": "real-madrid",
+    "shirtNumber": 7,
+    "contractEnd": "2027-06-30",
+    "heightCm": 176
+  },
+  {
+    "id": "bellingham",
+    "name": "Jude Bellingham",
+    "dateOfBirth": "2003-06-29",
+    "nationality": "England",
+    "position": "Central Midfielder",
+    "clubId": "real-madrid",
+    "shirtNumber": 5,
+    "contractEnd": "2029-06-30",
+    "heightCm": 186
+  },
+  {
+    "id": "yamal",
+    "name": "Lamine Yamal",
+    "dateOfBirth": "2007-07-13",
+    "nationality": "Spain",
+    "position": "Right Winger",
+    "clubId": "barcelona",
+    "shirtNumber": 19,
+    "contractEnd": "2026-06-30",
+    "heightCm": 180
+  },
+  {
+    "id": "musiala",
+    "name": "Jamal Musiala",
+    "dateOfBirth": "2003-02-26",
+    "nationality": "Germany",
+    "position": "Attacking Midfielder",
+    "clubId": "bayern-munich",
+    "shirtNumber": 42,
+    "contractEnd": "2026-06-30",
+    "heightCm": 183
+  },
+  {
+    "id": "mbappe",
+    "name": "Kylian Mbappé",
+    "dateOfBirth": "1998-12-20",
+    "nationality": "France",
+    "position": "Centre-Forward",
+    "clubId": "real-madrid",
+    "shirtNumber": 9,
+    "contractEnd": "2029-06-30",
+    "heightCm": 178
+  }
+]

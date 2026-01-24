@@ -1,0 +1,47 @@
+[
+  {
+    "id": "transfer-001",
+    "playerId": "mbappe",
+    "fromClubId": "psg",
+    "toClubId": "real-madrid",
+    "date": "2024-07-01",
+    "feeEur": 0,
+    "feeType": "free"
+  },
+  {
+    "id": "transfer-002",
+    "playerId": "palmer",
+    "fromClubId": "manchester-city",
+    "toClubId": "chelsea",
+    "date": "2023-09-01",
+    "feeEur": 42500000,
+    "feeType": "transfer"
+  },
+  {
+    "id": "transfer-003",
+    "playerId": "bellingham",
+    "fromClubId": null,
+    "toClubId": "real-madrid",
+    "date": "2023-06-14",
+    "feeEur": 103000000,
+    "feeType": "transfer"
+  },
+  {
+    "id": "transfer-004",
+    "playerId": "haaland",
+    "fromClubId": null,
+    "toClubId": "manchester-city",
+    "date": "2022-07-01",
+    "feeEur": 60000000,
+    "feeType": "transfer"
+  },
+  {
+    "id": "transfer-005",
+    "playerId": "saliba",
+    "fromClubId": null,
+    "toClubId": "arsenal",
+    "date": "2019-07-25",
+    "feeEur": 30000000,
+    "feeType": "transfer"
+  }
+]

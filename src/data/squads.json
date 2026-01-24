@@ -1,0 +1,28 @@
+{
+  "arsenal": [
+    { "playerId": "saka", "minutesPlayed": 1620, "appearances": 18 },
+    { "playerId": "saliba", "minutesPlayed": 1530, "appearances": 17 }
+  ],
+  "manchester-city": [
+    { "playerId": "haaland", "minutesPlayed": 1440, "appearances": 17 },
+    { "playerId": "rodri", "minutesPlayed": 540, "appearances": 6 }
+  ],
+  "liverpool": [
+    { "playerId": "salah", "minutesPlayed": 1620, "appearances": 18 },
+    { "playerId": "van-dijk", "minutesPlayed": 1620, "appearances": 18 }
+  ],
+  "chelsea": [
+    { "playerId": "palmer", "minutesPlayed": 1530, "appearances": 17 }
+  ],
+  "real-madrid": [
+    { "playerId": "vinicius", "minutesPlayed": 1350, "appearances": 16 },
+    { "playerId": "bellingham", "minutesPlayed": 1260, "appearances": 15 },
+    { "playerId": "mbappe", "minutesPlayed": 1440, "appearances": 17 }
+  ],
+  "barcelona": [
+    { "playerId": "yamal", "minutesPlayed": 1350, "appearances": 16 }
+  ],
+  "bayern-munich": [
+    { "playerId": "musiala", "minutesPlayed": 1260, "appearances": 15 }
+  ]
+}
