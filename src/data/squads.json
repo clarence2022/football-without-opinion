@@ -1,28 +1,57 @@
 {
   "arsenal": [
     { "playerId": "saka", "minutesPlayed": 1620, "appearances": 18 },
-    { "playerId": "saliba", "minutesPlayed": 1530, "appearances": 17 }
+    { "playerId": "saliba", "minutesPlayed": 1530, "appearances": 17 },
+    { "playerId": "rice", "minutesPlayed": 1440, "appearances": 16 },
+    { "playerId": "odegaard", "minutesPlayed": 1260, "appearances": 14 },
+    { "playerId": "havertz", "minutesPlayed": 1350, "appearances": 17 },
+    { "playerId": "raya", "minutesPlayed": 1620, "appearances": 18 }
   ],
   "manchester-city": [
     { "playerId": "haaland", "minutesPlayed": 1440, "appearances": 17 },
-    { "playerId": "rodri", "minutesPlayed": 540, "appearances": 6 }
+    { "playerId": "rodri", "minutesPlayed": 540, "appearances": 6 },
+    { "playerId": "de-bruyne", "minutesPlayed": 810, "appearances": 10 },
+    { "playerId": "foden", "minutesPlayed": 1260, "appearances": 15 },
+    { "playerId": "ederson", "minutesPlayed": 1620, "appearances": 18 }
   ],
   "liverpool": [
     { "playerId": "salah", "minutesPlayed": 1620, "appearances": 18 },
-    { "playerId": "van-dijk", "minutesPlayed": 1620, "appearances": 18 }
+    { "playerId": "van-dijk", "minutesPlayed": 1620, "appearances": 18 },
+    { "playerId": "alexander-arnold", "minutesPlayed": 1440, "appearances": 16 },
+    { "playerId": "mac-allister", "minutesPlayed": 1530, "appearances": 17 },
+    { "playerId": "nunez", "minutesPlayed": 1080, "appearances": 16 }
   ],
   "chelsea": [
-    { "playerId": "palmer", "minutesPlayed": 1530, "appearances": 17 }
+    { "playerId": "palmer", "minutesPlayed": 1530, "appearances": 17 },
+    { "playerId": "jackson", "minutesPlayed": 1350, "appearances": 17 },
+    { "playerId": "caicedo", "minutesPlayed": 1440, "appearances": 16 },
+    { "playerId": "sanchez-chelsea", "minutesPlayed": 1620, "appearances": 18 }
   ],
   "real-madrid": [
     { "playerId": "vinicius", "minutesPlayed": 1350, "appearances": 16 },
     { "playerId": "bellingham", "minutesPlayed": 1260, "appearances": 15 },
-    { "playerId": "mbappe", "minutesPlayed": 1440, "appearances": 17 }
+    { "playerId": "mbappe", "minutesPlayed": 1440, "appearances": 17 },
+    { "playerId": "valverde", "minutesPlayed": 1530, "appearances": 17 },
+    { "playerId": "courtois", "minutesPlayed": 900, "appearances": 10 }
   ],
   "barcelona": [
-    { "playerId": "yamal", "minutesPlayed": 1350, "appearances": 16 }
+    { "playerId": "yamal", "minutesPlayed": 1350, "appearances": 16 },
+    { "playerId": "pedri", "minutesPlayed": 1170, "appearances": 13 },
+    { "playerId": "gavi", "minutesPlayed": 270, "appearances": 3 },
+    { "playerId": "raphinha", "minutesPlayed": 1440, "appearances": 17 },
+    { "playerId": "lewandowski", "minutesPlayed": 1530, "appearances": 17 }
   ],
   "bayern-munich": [
-    { "playerId": "musiala", "minutesPlayed": 1260, "appearances": 15 }
+    { "playerId": "musiala", "minutesPlayed": 1260, "appearances": 15 },
+    { "playerId": "sane", "minutesPlayed": 1170, "appearances": 14 },
+    { "playerId": "kane", "minutesPlayed": 1530, "appearances": 17 },
+    { "playerId": "kimmich", "minutesPlayed": 1440, "appearances": 16 },
+    { "playerId": "neuer", "minutesPlayed": 1440, "appearances": 16 }
+  ],
+  "psg": [
+    { "playerId": "dembele", "minutesPlayed": 1350, "appearances": 16 },
+    { "playerId": "barcola", "minutesPlayed": 1260, "appearances": 15 },
+    { "playerId": "vitinha", "minutesPlayed": 1440, "appearances": 17 },
+    { "playerId": "donnarumma", "minutesPlayed": 1620, "appearances": 18 }
   ]
 }

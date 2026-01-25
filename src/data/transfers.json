@@ -43,5 +43,95 @@
     "date": "2019-07-25",
     "feeEur": 30000000,
     "feeType": "transfer"
+  },
+  {
+    "id": "transfer-006",
+    "playerId": "rice",
+    "fromClubId": null,
+    "toClubId": "arsenal",
+    "date": "2023-07-15",
+    "feeEur": 105000000,
+    "feeType": "transfer"
+  },
+  {
+    "id": "transfer-007",
+    "playerId": "caicedo",
+    "fromClubId": null,
+    "toClubId": "chelsea",
+    "date": "2023-08-14",
+    "feeEur": 116000000,
+    "feeType": "transfer"
+  },
+  {
+    "id": "transfer-008",
+    "playerId": "kane",
+    "fromClubId": null,
+    "toClubId": "bayern-munich",
+    "date": "2023-08-12",
+    "feeEur": 95000000,
+    "feeType": "transfer"
+  },
+  {
+    "id": "transfer-009",
+    "playerId": "mac-allister",
+    "fromClubId": null,
+    "toClubId": "liverpool",
+    "date": "2023-06-14",
+    "feeEur": 35000000,
+    "feeType": "transfer"
+  },
+  {
+    "id": "transfer-010",
+    "playerId": "havertz",
+    "fromClubId": "chelsea",
+    "toClubId": "arsenal",
+    "date": "2023-06-28",
+    "feeEur": 65000000,
+    "feeType": "transfer"
+  },
+  {
+    "id": "transfer-011",
+    "playerId": "nunez",
+    "fromClubId": null,
+    "toClubId": "liverpool",
+    "date": "2022-06-13",
+    "feeEur": 75000000,
+    "feeType": "transfer"
+  },
+  {
+    "id": "transfer-012",
+    "playerId": "jackson",
+    "fromClubId": null,
+    "toClubId": "chelsea",
+    "date": "2023-06-29",
+    "feeEur": 35000000,
+    "feeType": "transfer"
+  },
+  {
+    "id": "transfer-013",
+    "playerId": "dembele",
+    "fromClubId": "barcelona",
+    "toClubId": "psg",
+    "date": "2023-08-13",
+    "feeEur": 50000000,
+    "feeType": "transfer"
+  },
+  {
+    "id": "transfer-014",
+    "playerId": "lewandowski",
+    "fromClubId": "bayern-munich",
+    "toClubId": "barcelona",
+    "date": "2022-07-19",
+    "feeEur": 45000000,
+    "feeType": "transfer"
+  },
+  {
+    "id": "transfer-015",
+    "playerId": "raya",
+    "fromClubId": null,
+    "toClubId": "arsenal",
+    "date": "2024-07-01",
+    "feeEur": 27000000,
+    "feeType": "transfer"
   }
 ]

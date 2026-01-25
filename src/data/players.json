@@ -22,6 +22,50 @@
     "heightCm": 192
   },
   {
+    "id": "rice",
+    "name": "Declan Rice",
+    "dateOfBirth": "1999-01-14",
+    "nationality": "England",
+    "position": "Defensive Midfielder",
+    "clubId": "arsenal",
+    "shirtNumber": 41,
+    "contractEnd": "2028-06-30",
+    "heightCm": 185
+  },
+  {
+    "id": "odegaard",
+    "name": "Martin Ødegaard",
+    "dateOfBirth": "1998-12-17",
+    "nationality": "Norway",
+    "position": "Attacking Midfielder",
+    "clubId": "arsenal",
+    "shirtNumber": 8,
+    "contractEnd": "2028-06-30",
+    "heightCm": 178
+  },
+  {
+    "id": "havertz",
+    "name": "Kai Havertz",
+    "dateOfBirth": "1999-06-11",
+    "nationality": "Germany",
+    "position": "Centre-Forward",
+    "clubId": "arsenal",
+    "shirtNumber": 29,
+    "contractEnd": "2028-06-30",
+    "heightCm": 193
+  },
+  {
+    "id": "raya",
+    "name": "David Raya",
+    "dateOfBirth": "1995-09-15",
+    "nationality": "Spain",
+    "position": "Goalkeeper",
+    "clubId": "arsenal",
+    "shirtNumber": 22,
+    "contractEnd": "2029-06-30",
+    "heightCm": 183
+  },
+  {
     "id": "haaland",
     "name": "Erling Haaland",
     "dateOfBirth": "2000-07-21",
@@ -42,6 +86,39 @@
     "shirtNumber": 16,
     "contractEnd": "2027-06-30",
     "heightCm": 191
+  },
+  {
+    "id": "de-bruyne",
+    "name": "Kevin De Bruyne",
+    "dateOfBirth": "1991-06-28",
+    "nationality": "Belgium",
+    "position": "Central Midfielder",
+    "clubId": "manchester-city",
+    "shirtNumber": 17,
+    "contractEnd": "2025-06-30",
+    "heightCm": 181
+  },
+  {
+    "id": "foden",
+    "name": "Phil Foden",
+    "dateOfBirth": "2000-05-28",
+    "nationality": "England",
+    "position": "Attacking Midfielder",
+    "clubId": "manchester-city",
+    "shirtNumber": 47,
+    "contractEnd": "2027-06-30",
+    "heightCm": 171
+  },
+  {
+    "id": "ederson",
+    "name": "Ederson",
+    "dateOfBirth": "1993-08-17",
+    "nationality": "Brazil",
+    "position": "Goalkeeper",
+    "clubId": "manchester-city",
+    "shirtNumber": 31,
+    "contractEnd": "2026-06-30",
+    "heightCm": 188
   },
   {
     "id": "salah",
@@ -66,6 +143,39 @@
     "heightCm": 193
   },
   {
+    "id": "alexander-arnold",
+    "name": "Trent Alexander-Arnold",
+    "dateOfBirth": "1998-10-07",
+    "nationality": "England",
+    "position": "Right-Back",
+    "clubId": "liverpool",
+    "shirtNumber": 66,
+    "contractEnd": "2025-06-30",
+    "heightCm": 180
+  },
+  {
+    "id": "mac-allister",
+    "name": "Alexis Mac Allister",
+    "dateOfBirth": "1998-12-24",
+    "nationality": "Argentina",
+    "position": "Central Midfielder",
+    "clubId": "liverpool",
+    "shirtNumber": 10,
+    "contractEnd": "2028-06-30",
+    "heightCm": 176
+  },
+  {
+    "id": "nunez",
+    "name": "Darwin Núñez",
+    "dateOfBirth": "1999-06-24",
+    "nationality": "Uruguay",
+    "position": "Centre-Forward",
+    "clubId": "liverpool",
+    "shirtNumber": 9,
+    "contractEnd": "2028-06-30",
+    "heightCm": 187
+  },
+  {
     "id": "palmer",
     "name": "Cole Palmer",
     "dateOfBirth": "2002-05-06",
@@ -75,6 +185,39 @@
     "shirtNumber": 20,
     "contractEnd": "2033-06-30",
     "heightCm": 185
+  },
+  {
+    "id": "jackson",
+    "name": "Nicolas Jackson",
+    "dateOfBirth": "2001-06-20",
+    "nationality": "Senegal",
+    "position": "Centre-Forward",
+    "clubId": "chelsea",
+    "shirtNumber": 15,
+    "contractEnd": "2031-06-30",
+    "heightCm": 186
+  },
+  {
+    "id": "caicedo",
+    "name": "Moisés Caicedo",
+    "dateOfBirth": "2001-11-02",
+    "nationality": "Ecuador",
+    "position": "Defensive Midfielder",
+    "clubId": "chelsea",
+    "shirtNumber": 25,
+    "contractEnd": "2031-06-30",
+    "heightCm": 178
+  },
+  {
+    "id": "sanchez-chelsea",
+    "name": "Robert Sánchez",
+    "dateOfBirth": "1997-11-18",
+    "nationality": "Spain",
+    "position": "Goalkeeper",
+    "clubId": "chelsea",
+    "shirtNumber": 1,
+    "contractEnd": "2030-06-30",
+    "heightCm": 197
   },
   {
     "id": "vinicius",
@@ -99,6 +242,39 @@
     "heightCm": 186
   },
   {
+    "id": "mbappe",
+    "name": "Kylian Mbappé",
+    "dateOfBirth": "1998-12-20",
+    "nationality": "France",
+    "position": "Centre-Forward",
+    "clubId": "real-madrid",
+    "shirtNumber": 9,
+    "contractEnd": "2029-06-30",
+    "heightCm": 178
+  },
+  {
+    "id": "valverde",
+    "name": "Federico Valverde",
+    "dateOfBirth": "1998-07-22",
+    "nationality": "Uruguay",
+    "position": "Central Midfielder",
+    "clubId": "real-madrid",
+    "shirtNumber": 8,
+    "contractEnd": "2029-06-30",
+    "heightCm": 182
+  },
+  {
+    "id": "courtois",
+    "name": "Thibaut Courtois",
+    "dateOfBirth": "1992-05-11",
+    "nationality": "Belgium",
+    "position": "Goalkeeper",
+    "clubId": "real-madrid",
+    "shirtNumber": 1,
+    "contractEnd": "2026-06-30",
+    "heightCm": 199
+  },
+  {
     "id": "yamal",
     "name": "Lamine Yamal",
     "dateOfBirth": "2007-07-13",
@@ -108,6 +284,50 @@
     "shirtNumber": 19,
     "contractEnd": "2026-06-30",
     "heightCm": 180
+  },
+  {
+    "id": "pedri",
+    "name": "Pedri",
+    "dateOfBirth": "2002-11-25",
+    "nationality": "Spain",
+    "position": "Central Midfielder",
+    "clubId": "barcelona",
+    "shirtNumber": 8,
+    "contractEnd": "2026-06-30",
+    "heightCm": 174
+  },
+  {
+    "id": "gavi",
+    "name": "Gavi",
+    "dateOfBirth": "2004-08-05",
+    "nationality": "Spain",
+    "position": "Central Midfielder",
+    "clubId": "barcelona",
+    "shirtNumber": 6,
+    "contractEnd": "2026-06-30",
+    "heightCm": 173
+  },
+  {
+    "id": "raphinha",
+    "name": "Raphinha",
+    "dateOfBirth": "1996-12-14",
+    "nationality": "Brazil",
+    "position": "Right Winger",
+    "clubId": "barcelona",
+    "shirtNumber": 11,
+    "contractEnd": "2027-06-30",
+    "heightCm": 176
+  },
+  {
+    "id": "lewandowski",
+    "name": "Robert Lewandowski",
+    "dateOfBirth": "1988-08-21",
+    "nationality": "Poland",
+    "position": "Centre-Forward",
+    "clubId": "barcelona",
+    "shirtNumber": 9,
+    "contractEnd": "2026-06-30",
+    "heightCm": 185
   },
   {
     "id": "musiala",
@@ -121,14 +341,91 @@
     "heightCm": 183
   },
   {
-    "id": "mbappe",
-    "name": "Kylian Mbappé",
-    "dateOfBirth": "1998-12-20",
-    "nationality": "France",
+    "id": "sane",
+    "name": "Leroy Sané",
+    "dateOfBirth": "1996-01-11",
+    "nationality": "Germany",
+    "position": "Right Winger",
+    "clubId": "bayern-munich",
+    "shirtNumber": 10,
+    "contractEnd": "2025-06-30",
+    "heightCm": 183
+  },
+  {
+    "id": "kane",
+    "name": "Harry Kane",
+    "dateOfBirth": "1993-07-28",
+    "nationality": "England",
     "position": "Centre-Forward",
-    "clubId": "real-madrid",
+    "clubId": "bayern-munich",
     "shirtNumber": 9,
-    "contractEnd": "2029-06-30",
+    "contractEnd": "2027-06-30",
+    "heightCm": 188
+  },
+  {
+    "id": "kimmich",
+    "name": "Joshua Kimmich",
+    "dateOfBirth": "1995-02-08",
+    "nationality": "Germany",
+    "position": "Defensive Midfielder",
+    "clubId": "bayern-munich",
+    "shirtNumber": 6,
+    "contractEnd": "2025-06-30",
+    "heightCm": 177
+  },
+  {
+    "id": "neuer",
+    "name": "Manuel Neuer",
+    "dateOfBirth": "1986-03-27",
+    "nationality": "Germany",
+    "position": "Goalkeeper",
+    "clubId": "bayern-munich",
+    "shirtNumber": 1,
+    "contractEnd": "2025-06-30",
+    "heightCm": 193
+  },
+  {
+    "id": "dembele",
+    "name": "Ousmane Dembélé",
+    "dateOfBirth": "1997-05-15",
+    "nationality": "France",
+    "position": "Right Winger",
+    "clubId": "psg",
+    "shirtNumber": 10,
+    "contractEnd": "2028-06-30",
     "heightCm": 178
+  },
+  {
+    "id": "barcola",
+    "name": "Bradley Barcola",
+    "dateOfBirth": "2002-09-02",
+    "nationality": "France",
+    "position": "Left Winger",
+    "clubId": "psg",
+    "shirtNumber": 29,
+    "contractEnd": "2029-06-30",
+    "heightCm": 186
+  },
+  {
+    "id": "vitinha",
+    "name": "Vitinha",
+    "dateOfBirth": "2000-02-13",
+    "nationality": "Portugal",
+    "position": "Central Midfielder",
+    "clubId": "psg",
+    "shirtNumber": 17,
+    "contractEnd": "2028-06-30",
+    "heightCm": 172
+  },
+  {
+    "id": "donnarumma",
+    "name": "Gianluigi Donnarumma",
+    "dateOfBirth": "1999-02-25",
+    "nationality": "Italy",
+    "position": "Goalkeeper",
+    "clubId": "psg",
+    "shirtNumber": 99,
+    "contractEnd": "2026-06-30",
+    "heightCm": 196
   }
 ]
