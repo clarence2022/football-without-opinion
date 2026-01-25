@@ -1,57 +1,118 @@
 {
   "arsenal": [
-    { "playerId": "saka", "minutesPlayed": 1620, "appearances": 18 },
-    { "playerId": "saliba", "minutesPlayed": 1530, "appearances": 17 },
-    { "playerId": "rice", "minutesPlayed": 1440, "appearances": 16 },
-    { "playerId": "odegaard", "minutesPlayed": 1260, "appearances": 14 },
-    { "playerId": "havertz", "minutesPlayed": 1350, "appearances": 17 },
-    { "playerId": "raya", "minutesPlayed": 1620, "appearances": 18 }
+    {"playerId": "saka", "minutesPlayed": 1620, "appearances": 18},
+    {"playerId": "saliba", "minutesPlayed": 1530, "appearances": 17},
+    {"playerId": "rice", "minutesPlayed": 1440, "appearances": 16},
+    {"playerId": "odegaard", "minutesPlayed": 1260, "appearances": 14},
+    {"playerId": "havertz", "minutesPlayed": 1350, "appearances": 17},
+    {"playerId": "raya", "minutesPlayed": 1620, "appearances": 18}
   ],
   "manchester-city": [
-    { "playerId": "haaland", "minutesPlayed": 1440, "appearances": 17 },
-    { "playerId": "rodri", "minutesPlayed": 540, "appearances": 6 },
-    { "playerId": "de-bruyne", "minutesPlayed": 810, "appearances": 10 },
-    { "playerId": "foden", "minutesPlayed": 1260, "appearances": 15 },
-    { "playerId": "ederson", "minutesPlayed": 1620, "appearances": 18 }
+    {"playerId": "haaland", "minutesPlayed": 1440, "appearances": 17},
+    {"playerId": "rodri", "minutesPlayed": 540, "appearances": 6},
+    {"playerId": "de-bruyne", "minutesPlayed": 810, "appearances": 10},
+    {"playerId": "foden", "minutesPlayed": 1260, "appearances": 15},
+    {"playerId": "ederson", "minutesPlayed": 1620, "appearances": 18}
   ],
   "liverpool": [
-    { "playerId": "salah", "minutesPlayed": 1620, "appearances": 18 },
-    { "playerId": "van-dijk", "minutesPlayed": 1620, "appearances": 18 },
-    { "playerId": "alexander-arnold", "minutesPlayed": 1440, "appearances": 16 },
-    { "playerId": "mac-allister", "minutesPlayed": 1530, "appearances": 17 },
-    { "playerId": "nunez", "minutesPlayed": 1080, "appearances": 16 }
+    {"playerId": "salah", "minutesPlayed": 1620, "appearances": 18},
+    {"playerId": "van-dijk", "minutesPlayed": 1620, "appearances": 18},
+    {"playerId": "alexander-arnold", "minutesPlayed": 1440, "appearances": 16},
+    {"playerId": "mac-allister", "minutesPlayed": 1530, "appearances": 17},
+    {"playerId": "nunez", "minutesPlayed": 1080, "appearances": 16}
   ],
   "chelsea": [
-    { "playerId": "palmer", "minutesPlayed": 1530, "appearances": 17 },
-    { "playerId": "jackson", "minutesPlayed": 1350, "appearances": 17 },
-    { "playerId": "caicedo", "minutesPlayed": 1440, "appearances": 16 },
-    { "playerId": "sanchez-chelsea", "minutesPlayed": 1620, "appearances": 18 }
+    {"playerId": "palmer", "minutesPlayed": 1530, "appearances": 17},
+    {"playerId": "jackson", "minutesPlayed": 1350, "appearances": 17},
+    {"playerId": "caicedo", "minutesPlayed": 1440, "appearances": 16},
+    {"playerId": "sanchez-chelsea", "minutesPlayed": 1620, "appearances": 18}
+  ],
+  "manchester-united": [
+    {"playerId": "fernandes", "minutesPlayed": 1530, "appearances": 17},
+    {"playerId": "rashford", "minutesPlayed": 1080, "appearances": 14},
+    {"playerId": "mainoo", "minutesPlayed": 1260, "appearances": 15},
+    {"playerId": "garnacho", "minutesPlayed": 1170, "appearances": 16},
+    {"playerId": "onana", "minutesPlayed": 1620, "appearances": 18}
+  ],
+  "tottenham": [
+    {"playerId": "son", "minutesPlayed": 1530, "appearances": 17},
+    {"playerId": "maddison", "minutesPlayed": 1260, "appearances": 14},
+    {"playerId": "romero", "minutesPlayed": 1350, "appearances": 15},
+    {"playerId": "vicario", "minutesPlayed": 1620, "appearances": 18}
+  ],
+  "newcastle": [
+    {"playerId": "isak", "minutesPlayed": 1440, "appearances": 16},
+    {"playerId": "gordon", "minutesPlayed": 1530, "appearances": 17},
+    {"playerId": "guimaraes", "minutesPlayed": 1440, "appearances": 16},
+    {"playerId": "pope", "minutesPlayed": 1440, "appearances": 16}
+  ],
+  "aston-villa": [
+    {"playerId": "watkins", "minutesPlayed": 1530, "appearances": 17},
+    {"playerId": "martinez-emi", "minutesPlayed": 1620, "appearances": 18},
+    {"playerId": "mcginn", "minutesPlayed": 1350, "appearances": 16}
   ],
   "real-madrid": [
-    { "playerId": "vinicius", "minutesPlayed": 1350, "appearances": 16 },
-    { "playerId": "bellingham", "minutesPlayed": 1260, "appearances": 15 },
-    { "playerId": "mbappe", "minutesPlayed": 1440, "appearances": 17 },
-    { "playerId": "valverde", "minutesPlayed": 1530, "appearances": 17 },
-    { "playerId": "courtois", "minutesPlayed": 900, "appearances": 10 }
+    {"playerId": "vinicius", "minutesPlayed": 1350, "appearances": 16},
+    {"playerId": "bellingham", "minutesPlayed": 1260, "appearances": 15},
+    {"playerId": "mbappe", "minutesPlayed": 1440, "appearances": 17},
+    {"playerId": "valverde", "minutesPlayed": 1530, "appearances": 17},
+    {"playerId": "courtois", "minutesPlayed": 900, "appearances": 10}
   ],
   "barcelona": [
-    { "playerId": "yamal", "minutesPlayed": 1350, "appearances": 16 },
-    { "playerId": "pedri", "minutesPlayed": 1170, "appearances": 13 },
-    { "playerId": "gavi", "minutesPlayed": 270, "appearances": 3 },
-    { "playerId": "raphinha", "minutesPlayed": 1440, "appearances": 17 },
-    { "playerId": "lewandowski", "minutesPlayed": 1530, "appearances": 17 }
+    {"playerId": "yamal", "minutesPlayed": 1350, "appearances": 16},
+    {"playerId": "pedri", "minutesPlayed": 1170, "appearances": 13},
+    {"playerId": "gavi", "minutesPlayed": 270, "appearances": 3},
+    {"playerId": "raphinha", "minutesPlayed": 1440, "appearances": 17},
+    {"playerId": "lewandowski", "minutesPlayed": 1530, "appearances": 17}
+  ],
+  "atletico-madrid": [
+    {"playerId": "griezmann", "minutesPlayed": 1440, "appearances": 17},
+    {"playerId": "simeone-jr", "minutesPlayed": 720, "appearances": 12},
+    {"playerId": "oblak", "minutesPlayed": 1620, "appearances": 18}
   ],
   "bayern-munich": [
-    { "playerId": "musiala", "minutesPlayed": 1260, "appearances": 15 },
-    { "playerId": "sane", "minutesPlayed": 1170, "appearances": 14 },
-    { "playerId": "kane", "minutesPlayed": 1530, "appearances": 17 },
-    { "playerId": "kimmich", "minutesPlayed": 1440, "appearances": 16 },
-    { "playerId": "neuer", "minutesPlayed": 1440, "appearances": 16 }
+    {"playerId": "musiala", "minutesPlayed": 1260, "appearances": 15},
+    {"playerId": "sane", "minutesPlayed": 1170, "appearances": 14},
+    {"playerId": "kane", "minutesPlayed": 1530, "appearances": 17},
+    {"playerId": "kimmich", "minutesPlayed": 1440, "appearances": 16},
+    {"playerId": "neuer", "minutesPlayed": 1440, "appearances": 16}
+  ],
+  "dortmund": [
+    {"playerId": "sancho", "minutesPlayed": 990, "appearances": 13},
+    {"playerId": "brandt", "minutesPlayed": 1260, "appearances": 15},
+    {"playerId": "adeyemi", "minutesPlayed": 1080, "appearances": 14}
+  ],
+  "leverkusen": [
+    {"playerId": "wirtz", "minutesPlayed": 1440, "appearances": 16},
+    {"playerId": "xhaka", "minutesPlayed": 1530, "appearances": 17},
+    {"playerId": "boniface", "minutesPlayed": 900, "appearances": 12}
   ],
   "psg": [
-    { "playerId": "dembele", "minutesPlayed": 1350, "appearances": 16 },
-    { "playerId": "barcola", "minutesPlayed": 1260, "appearances": 15 },
-    { "playerId": "vitinha", "minutesPlayed": 1440, "appearances": 17 },
-    { "playerId": "donnarumma", "minutesPlayed": 1620, "appearances": 18 }
+    {"playerId": "dembele", "minutesPlayed": 1350, "appearances": 16},
+    {"playerId": "barcola", "minutesPlayed": 1260, "appearances": 15},
+    {"playerId": "vitinha", "minutesPlayed": 1440, "appearances": 17},
+    {"playerId": "donnarumma", "minutesPlayed": 1620, "appearances": 18}
+  ],
+  "juventus": [
+    {"playerId": "vlahovic", "minutesPlayed": 1440, "appearances": 17},
+    {"playerId": "chiesa", "minutesPlayed": 540, "appearances": 8},
+    {"playerId": "locatelli", "minutesPlayed": 1260, "appearances": 15}
+  ],
+  "inter-milan": [
+    {"playerId": "lautaro", "minutesPlayed": 1440, "appearances": 17},
+    {"playerId": "barella", "minutesPlayed": 1530, "appearances": 17},
+    {"playerId": "thuram", "minutesPlayed": 1350, "appearances": 16},
+    {"playerId": "sommer", "minutesPlayed": 1620, "appearances": 18}
+  ],
+  "ac-milan": [
+    {"playerId": "leao", "minutesPlayed": 1350, "appearances": 16},
+    {"playerId": "theo", "minutesPlayed": 1440, "appearances": 16},
+    {"playerId": "pulisic", "minutesPlayed": 1260, "appearances": 15},
+    {"playerId": "maignan", "minutesPlayed": 1440, "appearances": 16}
+  ],
+  "napoli": [
+    {"playerId": "osimhen", "minutesPlayed": 1080, "appearances": 14},
+    {"playerId": "kvara", "minutesPlayed": 1350, "appearances": 16},
+    {"playerId": "lobotka", "minutesPlayed": 1440, "appearances": 17}
   ]
 }

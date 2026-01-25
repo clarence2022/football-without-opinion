@@ -36,6 +36,42 @@
     "capacity": 40343
   },
   {
+    "id": "manchester-united",
+    "name": "Manchester United FC",
+    "country": "England",
+    "league": "Premier League",
+    "founded": 1878,
+    "stadium": "Old Trafford",
+    "capacity": 74310
+  },
+  {
+    "id": "tottenham",
+    "name": "Tottenham Hotspur FC",
+    "country": "England",
+    "league": "Premier League",
+    "founded": 1882,
+    "stadium": "Tottenham Hotspur Stadium",
+    "capacity": 62850
+  },
+  {
+    "id": "newcastle",
+    "name": "Newcastle United FC",
+    "country": "England",
+    "league": "Premier League",
+    "founded": 1892,
+    "stadium": "St James' Park",
+    "capacity": 52305
+  },
+  {
+    "id": "aston-villa",
+    "name": "Aston Villa FC",
+    "country": "England",
+    "league": "Premier League",
+    "founded": 1874,
+    "stadium": "Villa Park",
+    "capacity": 42657
+  },
+  {
     "id": "real-madrid",
     "name": "Real Madrid CF",
     "country": "Spain",
@@ -54,6 +90,15 @@
     "capacity": 99354
   },
   {
+    "id": "atletico-madrid",
+    "name": "Atlético Madrid",
+    "country": "Spain",
+    "league": "La Liga",
+    "founded": 1903,
+    "stadium": "Cívitas Metropolitano",
+    "capacity": 70460
+  },
+  {
     "id": "bayern-munich",
     "name": "FC Bayern München",
     "country": "Germany",
@@ -63,6 +108,24 @@
     "capacity": 75024
   },
   {
+    "id": "dortmund",
+    "name": "Borussia Dortmund",
+    "country": "Germany",
+    "league": "Bundesliga",
+    "founded": 1909,
+    "stadium": "Signal Iduna Park",
+    "capacity": 81365
+  },
+  {
+    "id": "leverkusen",
+    "name": "Bayer 04 Leverkusen",
+    "country": "Germany",
+    "league": "Bundesliga",
+    "founded": 1904,
+    "stadium": "BayArena",
+    "capacity": 30210
+  },
+  {
     "id": "psg",
     "name": "Paris Saint-Germain FC",
     "country": "France",
@@ -70,5 +133,41 @@
     "founded": 1970,
     "stadium": "Parc des Princes",
     "capacity": 47929
+  },
+  {
+    "id": "juventus",
+    "name": "Juventus FC",
+    "country": "Italy",
+    "league": "Serie A",
+    "founded": 1897,
+    "stadium": "Allianz Stadium",
+    "capacity": 41507
+  },
+  {
+    "id": "inter-milan",
+    "name": "FC Internazionale Milano",
+    "country": "Italy",
+    "league": "Serie A",
+    "founded": 1908,
+    "stadium": "San Siro",
+    "capacity": 75923
+  },
+  {
+    "id": "ac-milan",
+    "name": "AC Milan",
+    "country": "Italy",
+    "league": "Serie A",
+    "founded": 1899,
+    "stadium": "San Siro",
+    "capacity": 75923
+  },
+  {
+    "id": "napoli",
+    "name": "SSC Napoli",
+    "country": "Italy",
+    "league": "Serie A",
+    "founded": 1926,
+    "stadium": "Stadio Diego Armando Maradona",
+    "capacity": 54726
   }
 ]

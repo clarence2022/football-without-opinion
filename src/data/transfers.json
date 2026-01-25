@@ -1,137 +1,32 @@
 [
-  {
-    "id": "transfer-001",
-    "playerId": "mbappe",
-    "fromClubId": "psg",
-    "toClubId": "real-madrid",
-    "date": "2024-07-01",
-    "feeEur": 0,
-    "feeType": "free"
-  },
-  {
-    "id": "transfer-002",
-    "playerId": "palmer",
-    "fromClubId": "manchester-city",
-    "toClubId": "chelsea",
-    "date": "2023-09-01",
-    "feeEur": 42500000,
-    "feeType": "transfer"
-  },
-  {
-    "id": "transfer-003",
-    "playerId": "bellingham",
-    "fromClubId": null,
-    "toClubId": "real-madrid",
-    "date": "2023-06-14",
-    "feeEur": 103000000,
-    "feeType": "transfer"
-  },
-  {
-    "id": "transfer-004",
-    "playerId": "haaland",
-    "fromClubId": null,
-    "toClubId": "manchester-city",
-    "date": "2022-07-01",
-    "feeEur": 60000000,
-    "feeType": "transfer"
-  },
-  {
-    "id": "transfer-005",
-    "playerId": "saliba",
-    "fromClubId": null,
-    "toClubId": "arsenal",
-    "date": "2019-07-25",
-    "feeEur": 30000000,
-    "feeType": "transfer"
-  },
-  {
-    "id": "transfer-006",
-    "playerId": "rice",
-    "fromClubId": null,
-    "toClubId": "arsenal",
-    "date": "2023-07-15",
-    "feeEur": 105000000,
-    "feeType": "transfer"
-  },
-  {
-    "id": "transfer-007",
-    "playerId": "caicedo",
-    "fromClubId": null,
-    "toClubId": "chelsea",
-    "date": "2023-08-14",
-    "feeEur": 116000000,
-    "feeType": "transfer"
-  },
-  {
-    "id": "transfer-008",
-    "playerId": "kane",
-    "fromClubId": null,
-    "toClubId": "bayern-munich",
-    "date": "2023-08-12",
-    "feeEur": 95000000,
-    "feeType": "transfer"
-  },
-  {
-    "id": "transfer-009",
-    "playerId": "mac-allister",
-    "fromClubId": null,
-    "toClubId": "liverpool",
-    "date": "2023-06-14",
-    "feeEur": 35000000,
-    "feeType": "transfer"
-  },
-  {
-    "id": "transfer-010",
-    "playerId": "havertz",
-    "fromClubId": "chelsea",
-    "toClubId": "arsenal",
-    "date": "2023-06-28",
-    "feeEur": 65000000,
-    "feeType": "transfer"
-  },
-  {
-    "id": "transfer-011",
-    "playerId": "nunez",
-    "fromClubId": null,
-    "toClubId": "liverpool",
-    "date": "2022-06-13",
-    "feeEur": 75000000,
-    "feeType": "transfer"
-  },
-  {
-    "id": "transfer-012",
-    "playerId": "jackson",
-    "fromClubId": null,
-    "toClubId": "chelsea",
-    "date": "2023-06-29",
-    "feeEur": 35000000,
-    "feeType": "transfer"
-  },
-  {
-    "id": "transfer-013",
-    "playerId": "dembele",
-    "fromClubId": "barcelona",
-    "toClubId": "psg",
-    "date": "2023-08-13",
-    "feeEur": 50000000,
-    "feeType": "transfer"
-  },
-  {
-    "id": "transfer-014",
-    "playerId": "lewandowski",
-    "fromClubId": "bayern-munich",
-    "toClubId": "barcelona",
-    "date": "2022-07-19",
-    "feeEur": 45000000,
-    "feeType": "transfer"
-  },
-  {
-    "id": "transfer-015",
-    "playerId": "raya",
-    "fromClubId": null,
-    "toClubId": "arsenal",
-    "date": "2024-07-01",
-    "feeEur": 27000000,
-    "feeType": "transfer"
-  }
+  {"id": "transfer-001", "playerId": "mbappe", "fromClubId": "psg", "toClubId": "real-madrid", "date": "2024-07-01", "feeEur": 0, "feeType": "free"},
+  {"id": "transfer-002", "playerId": "palmer", "fromClubId": "manchester-city", "toClubId": "chelsea", "date": "2023-09-01", "feeEur": 42500000, "feeType": "transfer"},
+  {"id": "transfer-003", "playerId": "bellingham", "fromClubId": "dortmund", "toClubId": "real-madrid", "date": "2023-06-14", "feeEur": 103000000, "feeType": "transfer"},
+  {"id": "transfer-004", "playerId": "haaland", "fromClubId": "dortmund", "toClubId": "manchester-city", "date": "2022-07-01", "feeEur": 60000000, "feeType": "transfer"},
+  {"id": "transfer-005", "playerId": "saliba", "fromClubId": null, "toClubId": "arsenal", "date": "2019-07-25", "feeEur": 30000000, "feeType": "transfer"},
+  {"id": "transfer-006", "playerId": "rice", "fromClubId": null, "toClubId": "arsenal", "date": "2023-07-15", "feeEur": 105000000, "feeType": "transfer"},
+  {"id": "transfer-007", "playerId": "caicedo", "fromClubId": null, "toClubId": "chelsea", "date": "2023-08-14", "feeEur": 116000000, "feeType": "transfer"},
+  {"id": "transfer-008", "playerId": "kane", "fromClubId": "tottenham", "toClubId": "bayern-munich", "date": "2023-08-12", "feeEur": 95000000, "feeType": "transfer"},
+  {"id": "transfer-009", "playerId": "mac-allister", "fromClubId": null, "toClubId": "liverpool", "date": "2023-06-14", "feeEur": 35000000, "feeType": "transfer"},
+  {"id": "transfer-010", "playerId": "havertz", "fromClubId": "chelsea", "toClubId": "arsenal", "date": "2023-06-28", "feeEur": 65000000, "feeType": "transfer"},
+  {"id": "transfer-011", "playerId": "nunez", "fromClubId": null, "toClubId": "liverpool", "date": "2022-06-13", "feeEur": 75000000, "feeType": "transfer"},
+  {"id": "transfer-012", "playerId": "jackson", "fromClubId": null, "toClubId": "chelsea", "date": "2023-06-29", "feeEur": 35000000, "feeType": "transfer"},
+  {"id": "transfer-013", "playerId": "dembele", "fromClubId": "barcelona", "toClubId": "psg", "date": "2023-08-13", "feeEur": 50000000, "feeType": "transfer"},
+  {"id": "transfer-014", "playerId": "lewandowski", "fromClubId": "bayern-munich", "toClubId": "barcelona", "date": "2022-07-19", "feeEur": 45000000, "feeType": "transfer"},
+  {"id": "transfer-015", "playerId": "raya", "fromClubId": null, "toClubId": "arsenal", "date": "2024-07-01", "feeEur": 27000000, "feeType": "transfer"},
+  {"id": "transfer-016", "playerId": "isak", "fromClubId": null, "toClubId": "newcastle", "date": "2022-08-26", "feeEur": 70000000, "feeType": "transfer"},
+  {"id": "transfer-017", "playerId": "onana", "fromClubId": "inter-milan", "toClubId": "manchester-united", "date": "2023-07-20", "feeEur": 52000000, "feeType": "transfer"},
+  {"id": "transfer-018", "playerId": "maddison", "fromClubId": null, "toClubId": "tottenham", "date": "2023-06-28", "feeEur": 40000000, "feeType": "transfer"},
+  {"id": "transfer-019", "playerId": "xhaka", "fromClubId": "arsenal", "toClubId": "leverkusen", "date": "2023-07-25", "feeEur": 25000000, "feeType": "transfer"},
+  {"id": "transfer-020", "playerId": "thuram", "fromClubId": null, "toClubId": "inter-milan", "date": "2023-07-05", "feeEur": 0, "feeType": "free"},
+  {"id": "transfer-021", "playerId": "kvara", "fromClubId": null, "toClubId": "napoli", "date": "2022-07-01", "feeEur": 10000000, "feeType": "transfer"},
+  {"id": "transfer-022", "playerId": "osimhen", "fromClubId": null, "toClubId": "napoli", "date": "2020-07-31", "feeEur": 70000000, "feeType": "transfer"},
+  {"id": "transfer-023", "playerId": "vlahovic", "fromClubId": null, "toClubId": "juventus", "date": "2022-01-28", "feeEur": 75000000, "feeType": "transfer"},
+  {"id": "transfer-024", "playerId": "leao", "fromClubId": null, "toClubId": "ac-milan", "date": "2019-08-01", "feeEur": 35000000, "feeType": "transfer"},
+  {"id": "transfer-025", "playerId": "pulisic", "fromClubId": "chelsea", "toClubId": "ac-milan", "date": "2023-08-31", "feeEur": 20000000, "feeType": "transfer"},
+  {"id": "transfer-026", "playerId": "gordon", "fromClubId": null, "toClubId": "newcastle", "date": "2023-01-30", "feeEur": 45000000, "feeType": "transfer"},
+  {"id": "transfer-027", "playerId": "guimaraes", "fromClubId": null, "toClubId": "newcastle", "date": "2022-01-31", "feeEur": 42000000, "feeType": "transfer"},
+  {"id": "transfer-028", "playerId": "sane", "fromClubId": "manchester-city", "toClubId": "bayern-munich", "date": "2020-07-03", "feeEur": 49000000, "feeType": "transfer"},
+  {"id": "transfer-029", "playerId": "sancho", "fromClubId": "manchester-united", "toClubId": "dortmund", "date": "2024-08-01", "feeEur": null, "feeType": "loan"},
+  {"id": "transfer-030", "playerId": "romero", "fromClubId": null, "toClubId": "tottenham", "date": "2022-07-01", "feeEur": 50000000, "feeType": "transfer"}
 ]
