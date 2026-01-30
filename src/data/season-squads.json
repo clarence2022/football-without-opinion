@@ -1,0 +1,78 @@
+{
+  "arsenal": {
+    "2024-25": ["saka", "saliba", "rice", "odegaard", "havertz", "raya", "gabriel-jesus", "zinchenko"],
+    "2023-24": ["saka", "saliba", "rice", "odegaard", "havertz", "raya", "gabriel-jesus", "zinchenko"]
+  },
+  "manchester-city": {
+    "2024-25": ["haaland", "rodri", "de-bruyne", "foden", "ederson", "grealish", "dias"],
+    "2023-24": ["haaland", "rodri", "de-bruyne", "foden", "ederson", "grealish", "dias", "palmer"]
+  },
+  "liverpool": {
+    "2024-25": ["salah", "van-dijk", "alexander-arnold", "mac-allister", "nunez", "szoboszlai", "gakpo", "chiesa"],
+    "2023-24": ["salah", "van-dijk", "alexander-arnold", "mac-allister", "nunez", "szoboszlai", "gakpo"]
+  },
+  "chelsea": {
+    "2024-25": ["palmer", "jackson", "caicedo", "sanchez-chelsea", "enzo", "mudryk"],
+    "2023-24": ["palmer", "jackson", "caicedo", "sanchez-chelsea", "enzo", "mudryk", "havertz"]
+  },
+  "manchester-united": {
+    "2024-25": ["fernandes", "rashford", "mainoo", "garnacho", "onana", "martinez-lisandro", "hojlund"],
+    "2023-24": ["fernandes", "rashford", "mainoo", "garnacho", "onana", "martinez-lisandro", "hojlund"]
+  },
+  "tottenham": {
+    "2024-25": ["son", "maddison", "romero", "vicario"],
+    "2023-24": ["son", "maddison", "romero", "vicario", "kane"]
+  },
+  "newcastle": {
+    "2024-25": ["isak", "gordon", "guimaraes", "pope", "tonali"],
+    "2023-24": ["isak", "gordon", "guimaraes", "pope", "tonali"]
+  },
+  "aston-villa": {
+    "2024-25": ["watkins", "martinez-emi", "mcginn"],
+    "2023-24": ["watkins", "martinez-emi", "mcginn"]
+  },
+  "real-madrid": {
+    "2024-25": ["vinicius", "bellingham", "mbappe", "valverde", "courtois", "tchouameni"],
+    "2023-24": ["vinicius", "bellingham", "valverde", "courtois", "tchouameni"]
+  },
+  "barcelona": {
+    "2024-25": ["yamal", "pedri", "gavi", "raphinha", "lewandowski", "joao-felix"],
+    "2023-24": ["yamal", "pedri", "gavi", "raphinha", "lewandowski", "dembele"]
+  },
+  "atletico-madrid": {
+    "2024-25": ["griezmann", "simeone-jr", "oblak"],
+    "2023-24": ["griezmann", "simeone-jr", "oblak", "joao-felix"]
+  },
+  "bayern-munich": {
+    "2024-25": ["musiala", "sane", "kane", "kimmich", "neuer", "kim-min-jae"],
+    "2023-24": ["musiala", "sane", "kane", "kimmich", "neuer", "kim-min-jae"]
+  },
+  "dortmund": {
+    "2024-25": ["sancho", "brandt", "adeyemi"],
+    "2023-24": ["brandt", "adeyemi"]
+  },
+  "leverkusen": {
+    "2024-25": ["wirtz", "xhaka", "boniface"],
+    "2023-24": ["wirtz", "xhaka", "boniface"]
+  },
+  "psg": {
+    "2024-25": ["dembele", "barcola", "vitinha", "donnarumma", "asensio"],
+    "2023-24": ["dembele", "barcola", "vitinha", "donnarumma", "asensio", "mbappe"]
+  },
+  "juventus": {
+    "2024-25": ["vlahovic", "locatelli"],
+    "2023-24": ["vlahovic", "chiesa", "locatelli"]
+  },
+  "inter-milan": {
+    "2024-25": ["lautaro", "barella", "thuram", "sommer", "calhanoglu"],
+    "2023-24": ["lautaro", "barella", "thuram", "sommer", "calhanoglu", "onana"]
+  },
+  "ac-milan": {
+    "2024-25": ["leao", "theo", "pulisic", "maignan"],
+    "2023-24": ["leao", "theo", "pulisic", "maignan", "tonali"]
+  },
+  "napoli": {
+    "2024-25": ["osimhen", "kvara", "lobotka"],
+    "2023-24": ["osimhen", "kvara", "lobotka", "kim-min-jae"]
+  }
+}

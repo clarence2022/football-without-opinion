@@ -1,0 +1,188 @@
+[
+  {
+    "managerId": "arteta",
+    "clubId": "arsenal",
+    "startDate": "2019-12-20",
+    "endDate": null
+  },
+  {
+    "managerId": "guardiola",
+    "clubId": "manchester-city",
+    "startDate": "2016-07-01",
+    "endDate": null
+  },
+  {
+    "managerId": "guardiola",
+    "clubId": "bayern-munich",
+    "startDate": "2013-07-01",
+    "endDate": "2016-06-30"
+  },
+  {
+    "managerId": "guardiola",
+    "clubId": "barcelona",
+    "startDate": "2008-07-01",
+    "endDate": "2012-06-30"
+  },
+  {
+    "managerId": "slot",
+    "clubId": "liverpool",
+    "startDate": "2024-06-01",
+    "endDate": null
+  },
+  {
+    "managerId": "maresca",
+    "clubId": "chelsea",
+    "startDate": "2024-07-01",
+    "endDate": null
+  },
+  {
+    "managerId": "amorim",
+    "clubId": "manchester-united",
+    "startDate": "2024-11-11",
+    "endDate": null
+  },
+  {
+    "managerId": "postecoglou",
+    "clubId": "tottenham",
+    "startDate": "2023-06-06",
+    "endDate": null
+  },
+  {
+    "managerId": "howe",
+    "clubId": "newcastle",
+    "startDate": "2021-11-08",
+    "endDate": null
+  },
+  {
+    "managerId": "emery",
+    "clubId": "aston-villa",
+    "startDate": "2022-10-24",
+    "endDate": null
+  },
+  {
+    "managerId": "emery",
+    "clubId": "arsenal",
+    "startDate": "2018-05-23",
+    "endDate": "2019-11-29"
+  },
+  {
+    "managerId": "ancelotti",
+    "clubId": "real-madrid",
+    "startDate": "2021-06-01",
+    "endDate": null
+  },
+  {
+    "managerId": "ancelotti",
+    "clubId": "real-madrid",
+    "startDate": "2013-06-25",
+    "endDate": "2015-05-25"
+  },
+  {
+    "managerId": "ancelotti",
+    "clubId": "chelsea",
+    "startDate": "2009-07-01",
+    "endDate": "2011-05-22"
+  },
+  {
+    "managerId": "ancelotti",
+    "clubId": "ac-milan",
+    "startDate": "2001-11-06",
+    "endDate": "2009-05-31"
+  },
+  {
+    "managerId": "flick",
+    "clubId": "barcelona",
+    "startDate": "2024-05-28",
+    "endDate": null
+  },
+  {
+    "managerId": "flick",
+    "clubId": "bayern-munich",
+    "startDate": "2019-11-03",
+    "endDate": "2021-05-29"
+  },
+  {
+    "managerId": "simeone",
+    "clubId": "atletico-madrid",
+    "startDate": "2011-12-23",
+    "endDate": null
+  },
+  {
+    "managerId": "kompany",
+    "clubId": "bayern-munich",
+    "startDate": "2024-05-29",
+    "endDate": null
+  },
+  {
+    "managerId": "sahin",
+    "clubId": "dortmund",
+    "startDate": "2024-06-14",
+    "endDate": null
+  },
+  {
+    "managerId": "alonso",
+    "clubId": "leverkusen",
+    "startDate": "2022-10-05",
+    "endDate": null
+  },
+  {
+    "managerId": "luis-enrique",
+    "clubId": "psg",
+    "startDate": "2023-07-05",
+    "endDate": null
+  },
+  {
+    "managerId": "luis-enrique",
+    "clubId": "barcelona",
+    "startDate": "2014-05-19",
+    "endDate": "2017-05-27"
+  },
+  {
+    "managerId": "motta",
+    "clubId": "juventus",
+    "startDate": "2024-06-13",
+    "endDate": null
+  },
+  {
+    "managerId": "inzaghi",
+    "clubId": "inter-milan",
+    "startDate": "2021-06-03",
+    "endDate": null
+  },
+  {
+    "managerId": "conceicao",
+    "clubId": "ac-milan",
+    "startDate": "2025-01-01",
+    "endDate": null
+  },
+  {
+    "managerId": "conte",
+    "clubId": "napoli",
+    "startDate": "2024-06-05",
+    "endDate": null
+  },
+  {
+    "managerId": "conte",
+    "clubId": "tottenham",
+    "startDate": "2021-11-02",
+    "endDate": "2023-03-26"
+  },
+  {
+    "managerId": "conte",
+    "clubId": "inter-milan",
+    "startDate": "2019-05-31",
+    "endDate": "2021-05-26"
+  },
+  {
+    "managerId": "conte",
+    "clubId": "chelsea",
+    "startDate": "2016-04-04",
+    "endDate": "2018-07-13"
+  },
+  {
+    "managerId": "conte",
+    "clubId": "juventus",
+    "startDate": "2011-05-31",
+    "endDate": "2014-07-15"
+  }
+]

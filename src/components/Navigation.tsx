@@ -8,6 +8,10 @@ const navItems = [
   { href: "/matches", label: "Matches" },
   { href: "/transfers", label: "Transfers" },
   { href: "/squads", label: "Squads" },
+  { href: "/stats", label: "Stats" },
+  { href: "/standings", label: "Standings" },
+  { href: "/managers", label: "Managers" },
+  { href: "/stadiums", label: "Stadiums" },
   { href: "/about", label: "About" },
 ];
 

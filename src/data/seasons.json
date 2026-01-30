@@ -1,0 +1,98 @@
+[
+  {
+    "id": "premier-league-2024-25",
+    "competitionId": "premier-league",
+    "name": "2024-25",
+    "startDate": "2024-08-16",
+    "endDate": "2025-05-25",
+    "status": "in_progress"
+  },
+  {
+    "id": "premier-league-2023-24",
+    "competitionId": "premier-league",
+    "name": "2023-24",
+    "startDate": "2023-08-11",
+    "endDate": "2024-05-19",
+    "status": "completed"
+  },
+  {
+    "id": "premier-league-2022-23",
+    "competitionId": "premier-league",
+    "name": "2022-23",
+    "startDate": "2022-08-05",
+    "endDate": "2023-05-28",
+    "status": "completed"
+  },
+  {
+    "id": "la-liga-2024-25",
+    "competitionId": "la-liga",
+    "name": "2024-25",
+    "startDate": "2024-08-15",
+    "endDate": "2025-05-25",
+    "status": "in_progress"
+  },
+  {
+    "id": "la-liga-2023-24",
+    "competitionId": "la-liga",
+    "name": "2023-24",
+    "startDate": "2023-08-11",
+    "endDate": "2024-05-26",
+    "status": "completed"
+  },
+  {
+    "id": "bundesliga-2024-25",
+    "competitionId": "bundesliga",
+    "name": "2024-25",
+    "startDate": "2024-08-23",
+    "endDate": "2025-05-17",
+    "status": "in_progress"
+  },
+  {
+    "id": "bundesliga-2023-24",
+    "competitionId": "bundesliga",
+    "name": "2023-24",
+    "startDate": "2023-08-18",
+    "endDate": "2024-05-18",
+    "status": "completed"
+  },
+  {
+    "id": "serie-a-2024-25",
+    "competitionId": "serie-a",
+    "name": "2024-25",
+    "startDate": "2024-08-17",
+    "endDate": "2025-05-25",
+    "status": "in_progress"
+  },
+  {
+    "id": "serie-a-2023-24",
+    "competitionId": "serie-a",
+    "name": "2023-24",
+    "startDate": "2023-08-19",
+    "endDate": "2024-05-26",
+    "status": "completed"
+  },
+  {
+    "id": "ligue-1-2024-25",
+    "competitionId": "ligue-1",
+    "name": "2024-25",
+    "startDate": "2024-08-16",
+    "endDate": "2025-05-18",
+    "status": "in_progress"
+  },
+  {
+    "id": "champions-league-2024-25",
+    "competitionId": "champions-league",
+    "name": "2024-25",
+    "startDate": "2024-09-17",
+    "endDate": "2025-05-31",
+    "status": "in_progress"
+  },
+  {
+    "id": "champions-league-2023-24",
+    "competitionId": "champions-league",
+    "name": "2023-24",
+    "startDate": "2023-09-19",
+    "endDate": "2024-06-01",
+    "status": "completed"
+  }
+]

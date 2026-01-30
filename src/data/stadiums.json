@@ -1,0 +1,200 @@
+[
+  {
+    "id": "emirates-stadium",
+    "name": "Emirates Stadium",
+    "city": "London",
+    "country": "England",
+    "capacity": 60704,
+    "opened": 2006,
+    "surfaceType": "grass",
+    "clubId": "arsenal",
+    "coordinates": {"lat": 51.5549, "lng": -0.1084}
+  },
+  {
+    "id": "etihad-stadium",
+    "name": "Etihad Stadium",
+    "city": "Manchester",
+    "country": "England",
+    "capacity": 53400,
+    "opened": 2003,
+    "surfaceType": "grass",
+    "clubId": "manchester-city",
+    "coordinates": {"lat": 53.4831, "lng": -2.2004}
+  },
+  {
+    "id": "anfield",
+    "name": "Anfield",
+    "city": "Liverpool",
+    "country": "England",
+    "capacity": 61276,
+    "opened": 1884,
+    "surfaceType": "grass",
+    "clubId": "liverpool",
+    "coordinates": {"lat": 53.4308, "lng": -2.9608}
+  },
+  {
+    "id": "stamford-bridge",
+    "name": "Stamford Bridge",
+    "city": "London",
+    "country": "England",
+    "capacity": 40343,
+    "opened": 1877,
+    "surfaceType": "grass",
+    "clubId": "chelsea",
+    "coordinates": {"lat": 51.4817, "lng": -0.1910}
+  },
+  {
+    "id": "old-trafford",
+    "name": "Old Trafford",
+    "city": "Manchester",
+    "country": "England",
+    "capacity": 74310,
+    "opened": 1910,
+    "surfaceType": "grass",
+    "clubId": "manchester-united",
+    "coordinates": {"lat": 53.4631, "lng": -2.2913}
+  },
+  {
+    "id": "tottenham-hotspur-stadium",
+    "name": "Tottenham Hotspur Stadium",
+    "city": "London",
+    "country": "England",
+    "capacity": 62850,
+    "opened": 2019,
+    "surfaceType": "grass",
+    "clubId": "tottenham",
+    "coordinates": {"lat": 51.6043, "lng": -0.0665}
+  },
+  {
+    "id": "st-james-park",
+    "name": "St James' Park",
+    "city": "Newcastle",
+    "country": "England",
+    "capacity": 52305,
+    "opened": 1892,
+    "surfaceType": "grass",
+    "clubId": "newcastle",
+    "coordinates": {"lat": 54.9756, "lng": -1.6217}
+  },
+  {
+    "id": "villa-park",
+    "name": "Villa Park",
+    "city": "Birmingham",
+    "country": "England",
+    "capacity": 42657,
+    "opened": 1897,
+    "surfaceType": "grass",
+    "clubId": "aston-villa",
+    "coordinates": {"lat": 52.5092, "lng": -1.8847}
+  },
+  {
+    "id": "santiago-bernabeu",
+    "name": "Santiago Bernabéu",
+    "city": "Madrid",
+    "country": "Spain",
+    "capacity": 81044,
+    "opened": 1947,
+    "surfaceType": "grass",
+    "clubId": "real-madrid",
+    "coordinates": {"lat": 40.4530, "lng": -3.6883}
+  },
+  {
+    "id": "spotify-camp-nou",
+    "name": "Spotify Camp Nou",
+    "city": "Barcelona",
+    "country": "Spain",
+    "capacity": 99354,
+    "opened": 1957,
+    "surfaceType": "grass",
+    "clubId": "barcelona",
+    "coordinates": {"lat": 41.3809, "lng": 2.1228}
+  },
+  {
+    "id": "civitas-metropolitano",
+    "name": "Cívitas Metropolitano",
+    "city": "Madrid",
+    "country": "Spain",
+    "capacity": 70460,
+    "opened": 1994,
+    "surfaceType": "grass",
+    "clubId": "atletico-madrid",
+    "coordinates": {"lat": 40.4362, "lng": -3.5995}
+  },
+  {
+    "id": "allianz-arena",
+    "name": "Allianz Arena",
+    "city": "Munich",
+    "country": "Germany",
+    "capacity": 75024,
+    "opened": 2005,
+    "surfaceType": "grass",
+    "clubId": "bayern-munich",
+    "coordinates": {"lat": 48.2188, "lng": 11.6247}
+  },
+  {
+    "id": "signal-iduna-park",
+    "name": "Signal Iduna Park",
+    "city": "Dortmund",
+    "country": "Germany",
+    "capacity": 81365,
+    "opened": 1974,
+    "surfaceType": "grass",
+    "clubId": "dortmund",
+    "coordinates": {"lat": 51.4926, "lng": 7.4516}
+  },
+  {
+    "id": "bayarena",
+    "name": "BayArena",
+    "city": "Leverkusen",
+    "country": "Germany",
+    "capacity": 30210,
+    "opened": 1958,
+    "surfaceType": "grass",
+    "clubId": "leverkusen",
+    "coordinates": {"lat": 51.0384, "lng": 7.0024}
+  },
+  {
+    "id": "parc-des-princes",
+    "name": "Parc des Princes",
+    "city": "Paris",
+    "country": "France",
+    "capacity": 47929,
+    "opened": 1972,
+    "surfaceType": "grass",
+    "clubId": "psg",
+    "coordinates": {"lat": 48.8414, "lng": 2.2530}
+  },
+  {
+    "id": "allianz-stadium-turin",
+    "name": "Allianz Stadium",
+    "city": "Turin",
+    "country": "Italy",
+    "capacity": 41507,
+    "opened": 2011,
+    "surfaceType": "grass",
+    "clubId": "juventus",
+    "coordinates": {"lat": 45.1096, "lng": 7.6413}
+  },
+  {
+    "id": "san-siro",
+    "name": "San Siro",
+    "city": "Milan",
+    "country": "Italy",
+    "capacity": 75923,
+    "opened": 1926,
+    "surfaceType": "grass",
+    "clubId": null,
+    "coordinates": {"lat": 45.4781, "lng": 9.1240}
+  },
+  {
+    "id": "diego-armando-maradona",
+    "name": "Stadio Diego Armando Maradona",
+    "city": "Naples",
+    "country": "Italy",
+    "capacity": 54726,
+    "opened": 1959,
+    "surfaceType": "grass",
+    "clubId": "napoli",
+    "coordinates": {"lat": 40.8279, "lng": 14.1931}
+  }
+]

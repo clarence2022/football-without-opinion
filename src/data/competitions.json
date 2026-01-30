@@ -1,0 +1,110 @@
+[
+  {
+    "id": "premier-league",
+    "name": "Premier League",
+    "country": "England",
+    "type": "league",
+    "founded": 1992,
+    "numberOfTeams": 20,
+    "confederation": "UEFA"
+  },
+  {
+    "id": "la-liga",
+    "name": "La Liga",
+    "country": "Spain",
+    "type": "league",
+    "founded": 1929,
+    "numberOfTeams": 20,
+    "confederation": "UEFA"
+  },
+  {
+    "id": "bundesliga",
+    "name": "Bundesliga",
+    "country": "Germany",
+    "type": "league",
+    "founded": 1963,
+    "numberOfTeams": 18,
+    "confederation": "UEFA"
+  },
+  {
+    "id": "serie-a",
+    "name": "Serie A",
+    "country": "Italy",
+    "type": "league",
+    "founded": 1898,
+    "numberOfTeams": 20,
+    "confederation": "UEFA"
+  },
+  {
+    "id": "ligue-1",
+    "name": "Ligue 1",
+    "country": "France",
+    "type": "league",
+    "founded": 1932,
+    "numberOfTeams": 18,
+    "confederation": "UEFA"
+  },
+  {
+    "id": "champions-league",
+    "name": "UEFA Champions League",
+    "country": null,
+    "type": "cup",
+    "founded": 1955,
+    "numberOfTeams": 36,
+    "confederation": "UEFA"
+  },
+  {
+    "id": "europa-league",
+    "name": "UEFA Europa League",
+    "country": null,
+    "type": "cup",
+    "founded": 1971,
+    "numberOfTeams": 36,
+    "confederation": "UEFA"
+  },
+  {
+    "id": "fa-cup",
+    "name": "FA Cup",
+    "country": "England",
+    "type": "cup",
+    "founded": 1871,
+    "numberOfTeams": null,
+    "confederation": "UEFA"
+  },
+  {
+    "id": "copa-del-rey",
+    "name": "Copa del Rey",
+    "country": "Spain",
+    "type": "cup",
+    "founded": 1903,
+    "numberOfTeams": null,
+    "confederation": "UEFA"
+  },
+  {
+    "id": "dfb-pokal",
+    "name": "DFB-Pokal",
+    "country": "Germany",
+    "type": "cup",
+    "founded": 1935,
+    "numberOfTeams": 64,
+    "confederation": "UEFA"
+  },
+  {
+    "id": "coppa-italia",
+    "name": "Coppa Italia",
+    "country": "Italy",
+    "type": "cup",
+    "founded": 1922,
+    "numberOfTeams": null,
+    "confederation": "UEFA"
+  },
+  {
+    "id": "coupe-de-france",
+    "name": "Coupe de France",
+    "country": "France",
+    "type": "cup",
+    "founded": 1917,
+    "numberOfTeams": null,
+    "confederation": "UEFA"
+  }
+]
