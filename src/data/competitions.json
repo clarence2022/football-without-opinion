@@ -45,6 +45,33 @@
     "confederation": "UEFA"
   },
   {
+    "id": "eredivisie",
+    "name": "Eredivisie",
+    "country": "Netherlands",
+    "type": "league",
+    "founded": 1956,
+    "numberOfTeams": 18,
+    "confederation": "UEFA"
+  },
+  {
+    "id": "liga-portugal",
+    "name": "Liga Portugal",
+    "country": "Portugal",
+    "type": "league",
+    "founded": 1934,
+    "numberOfTeams": 18,
+    "confederation": "UEFA"
+  },
+  {
+    "id": "scottish-premiership",
+    "name": "Scottish Premiership",
+    "country": "Scotland",
+    "type": "league",
+    "founded": 2013,
+    "numberOfTeams": 12,
+    "confederation": "UEFA"
+  },
+  {
     "id": "champions-league",
     "name": "UEFA Champions League",
     "country": null,

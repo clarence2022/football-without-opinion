@@ -72,6 +72,24 @@
     "capacity": 42657
   },
   {
+    "id": "west-ham",
+    "name": "West Ham United FC",
+    "country": "England",
+    "league": "Premier League",
+    "founded": 1895,
+    "stadium": "London Stadium",
+    "capacity": 62500
+  },
+  {
+    "id": "brighton",
+    "name": "Brighton & Hove Albion FC",
+    "country": "England",
+    "league": "Premier League",
+    "founded": 1901,
+    "stadium": "American Express Stadium",
+    "capacity": 31800
+  },
+  {
     "id": "real-madrid",
     "name": "Real Madrid CF",
     "country": "Spain",
@@ -97,6 +115,24 @@
     "founded": 1903,
     "stadium": "Cívitas Metropolitano",
     "capacity": 70460
+  },
+  {
+    "id": "real-sociedad",
+    "name": "Real Sociedad",
+    "country": "Spain",
+    "league": "La Liga",
+    "founded": 1909,
+    "stadium": "Reale Arena",
+    "capacity": 39500
+  },
+  {
+    "id": "villarreal",
+    "name": "Villarreal CF",
+    "country": "Spain",
+    "league": "La Liga",
+    "founded": 1923,
+    "stadium": "Estadio de la Cerámica",
+    "capacity": 23500
   },
   {
     "id": "bayern-munich",
@@ -126,6 +162,24 @@
     "capacity": 30210
   },
   {
+    "id": "rb-leipzig",
+    "name": "RB Leipzig",
+    "country": "Germany",
+    "league": "Bundesliga",
+    "founded": 2009,
+    "stadium": "Red Bull Arena",
+    "capacity": 47069
+  },
+  {
+    "id": "stuttgart",
+    "name": "VfB Stuttgart",
+    "country": "Germany",
+    "league": "Bundesliga",
+    "founded": 1893,
+    "stadium": "MHPArena",
+    "capacity": 60449
+  },
+  {
     "id": "psg",
     "name": "Paris Saint-Germain FC",
     "country": "France",
@@ -133,6 +187,33 @@
     "founded": 1970,
     "stadium": "Parc des Princes",
     "capacity": 47929
+  },
+  {
+    "id": "marseille",
+    "name": "Olympique de Marseille",
+    "country": "France",
+    "league": "Ligue 1",
+    "founded": 1899,
+    "stadium": "Stade Vélodrome",
+    "capacity": 67394
+  },
+  {
+    "id": "monaco",
+    "name": "AS Monaco FC",
+    "country": "France",
+    "league": "Ligue 1",
+    "founded": 1924,
+    "stadium": "Stade Louis II",
+    "capacity": 18523
+  },
+  {
+    "id": "lille",
+    "name": "Lille OSC",
+    "country": "France",
+    "league": "Ligue 1",
+    "founded": 1944,
+    "stadium": "Stade Pierre-Mauroy",
+    "capacity": 50157
   },
   {
     "id": "juventus",
@@ -169,5 +250,95 @@
     "founded": 1926,
     "stadium": "Stadio Diego Armando Maradona",
     "capacity": 54726
+  },
+  {
+    "id": "roma",
+    "name": "AS Roma",
+    "country": "Italy",
+    "league": "Serie A",
+    "founded": 1927,
+    "stadium": "Stadio Olimpico",
+    "capacity": 70634
+  },
+  {
+    "id": "atalanta",
+    "name": "Atalanta BC",
+    "country": "Italy",
+    "league": "Serie A",
+    "founded": 1907,
+    "stadium": "Gewiss Stadium",
+    "capacity": 24545
+  },
+  {
+    "id": "ajax",
+    "name": "AFC Ajax",
+    "country": "Netherlands",
+    "league": "Eredivisie",
+    "founded": 1900,
+    "stadium": "Johan Cruyff Arena",
+    "capacity": 55500
+  },
+  {
+    "id": "psv",
+    "name": "PSV Eindhoven",
+    "country": "Netherlands",
+    "league": "Eredivisie",
+    "founded": 1913,
+    "stadium": "Philips Stadion",
+    "capacity": 35000
+  },
+  {
+    "id": "feyenoord",
+    "name": "Feyenoord Rotterdam",
+    "country": "Netherlands",
+    "league": "Eredivisie",
+    "founded": 1908,
+    "stadium": "De Kuip",
+    "capacity": 47500
+  },
+  {
+    "id": "benfica",
+    "name": "SL Benfica",
+    "country": "Portugal",
+    "league": "Liga Portugal",
+    "founded": 1904,
+    "stadium": "Estádio da Luz",
+    "capacity": 64642
+  },
+  {
+    "id": "porto",
+    "name": "FC Porto",
+    "country": "Portugal",
+    "league": "Liga Portugal",
+    "founded": 1893,
+    "stadium": "Estádio do Dragão",
+    "capacity": 50033
+  },
+  {
+    "id": "sporting-cp",
+    "name": "Sporting CP",
+    "country": "Portugal",
+    "league": "Liga Portugal",
+    "founded": 1906,
+    "stadium": "Estádio José Alvalade",
+    "capacity": 50095
+  },
+  {
+    "id": "celtic",
+    "name": "Celtic FC",
+    "country": "Scotland",
+    "league": "Scottish Premiership",
+    "founded": 1888,
+    "stadium": "Celtic Park",
+    "capacity": 60411
+  },
+  {
+    "id": "rangers",
+    "name": "Rangers FC",
+    "country": "Scotland",
+    "league": "Scottish Premiership",
+    "founded": 1872,
+    "stadium": "Ibrox Stadium",
+    "capacity": 50817
   }
 ]
